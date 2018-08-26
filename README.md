@@ -5,7 +5,7 @@
 
 ## Introduction
 
-An archive of the notes from the reinforcement learning study group of psychology students, @ [Psychorism](http://psychorism.github.io/), July-August, 2018.
+An archive of the notes from the RL study group of psychology students, @ [Psychorism](http://psychorism.github.io/), July-August, 2018.
 
 Study materials included
 

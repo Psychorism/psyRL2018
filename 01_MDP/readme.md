@@ -1,7 +1,5 @@
 # MDP & Bellman Equation
 
-발제자 : 정재현, 최상욱
-
 + MDP
 
 + Bellman Equation

@@ -1,6 +1,5 @@
 # Intro
 
-발제자 : 구현우
 
 + Ice Breaking
 

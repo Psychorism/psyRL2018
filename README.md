@@ -5,7 +5,7 @@
 
 ## Introduction
 
-An archive of the notes from the reinforcement learning study group of psychology students, **@ SNU**, Summer 2018. @ [Psychorism](http://psychorism.github.io/)
+An archive of the notes from the reinforcement learning study group of psychology students, @ [Psychorism](http://psychorism.github.io/), July-August, 2018.
 
 Study materials included
 
@@ -15,18 +15,16 @@ Study materials included
 
 ## Curriculum
 
-July - August, 2018
-
-Index|Subject
+Week|Subject
 -|-
-0|Introduction
-1|MDP : Markov Decision Process
-2|DP : Dynamic Programming
-3|Policy Evaluation
-4|SARSA and Q-Learning
-5|(self-study)
-6| Deep SARSA
-7|DQN : Deep Q-Network : Cartpole
-8|REINFORCE and A2C : Cartpole
-9|DQN and A3C : Atari Breakout
+00|Introduction
+01|MDP : Markov Decision Process
+02|DP : Dynamic Programming
+03|Policy Evaluation
+04|SARSA and Q-Learning
+05|(self-study)
+06| Deep SARSA
+07|DQN : Deep Q-Network : Cartpole
+08|REINFORCE and A2C : Cartpole
+09|DQN and A3C : Atari Breakout
 

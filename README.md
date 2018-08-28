@@ -25,6 +25,6 @@ Week|Subject
 05|(self-study)
 06| Deep SARSA
 07|DQN : Deep Q-Network : Cartpole
-08|REINFORCE and A2C : Cartpole
+08|Policy Gradient (REINFORCE) and A2C : Cartpole
 09|DQN and A3C : Atari Breakout
 
